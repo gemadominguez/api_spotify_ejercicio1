@@ -1,0 +1,67 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Ana",
+        "email": "SoyAna@gmail.com",
+        "spotify_artists": [
+            {
+                "id": "66CXWjxzNUsdJxJ2JdwvnR",
+                "name": "Ariana Grande",
+                "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+            },
+            {
+                "id": "3pc0bOVB5whxmD50W79wwO",
+                "name": "keshi",
+                "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+            }
+        ],
+        "spotify_songs": [
+            {
+                "id": "7qiYSGc57LcmKTdBi0J14a",
+                "titulo": "Sleepyhead",
+                "artista": "Jutes",
+                "url": "https://open.spotify.com/track/7qiYSGc57LcmKTdBi0J14a"
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "name": "Laura",
+        "email": "elcorreodelaura@gmail.com",
+        "spotify_artists": [
+            {
+                "id": "5AWgF8Ghqm94WZ4GxCt8K5",
+                "name": "Dimash Qudaibergen",
+                "url": "https://open.spotify.com/artist/5AWgF8Ghqm94WZ4GxCt8K5"
+            }
+        ],
+        "spotify_songs": [
+            {
+                "id": "4r1YzUGu3I2uYDuDmO01MO",
+                "titulo": "Strangers",
+                "artista": "Kenya Grace",
+                "url": "https://open.spotify.com/track/4r1YzUGu3I2uYDuDmO01MO"
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "name": "Maria",
+        "email": "Maria@example.com",
+        "spotify_artists": [
+            {
+                "id": "7ltDVBr6mKbRvohxheJ9h1",
+                "name": "ROSAL\u00cdA",
+                "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+            }
+        ],
+        "spotify_songs": [
+            {
+                "id": "18CctEeOpjEDIAvWM5S7RE",
+                "titulo": "The Streets of Whiterun",
+                "artista": "Jeremy Soule",
+                "url": "https://open.spotify.com/track/18CctEeOpjEDIAvWM5S7RE"
+            }
+        ]
+    }
+}
